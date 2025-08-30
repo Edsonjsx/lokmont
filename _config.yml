@@ -6,8 +6,8 @@ url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for yo
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: Bienvenido a Lokmont
+hero-description: Un tema responsivo para blogs de Jekyll. Ideal para cualquier tipo de creador.
 
 # Author - Creator
 author-name: Ben Campbell
